@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- TF Branding Orange -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+    <color name="bottom_sheet_background">#EEEEEE</color>
+    <color name="bubble">#DBFFFD</color>
+    <color name="stroke">#87DEFC</color>
+    <color name="splashcolor">#BEF7FE</color>
+</resources>

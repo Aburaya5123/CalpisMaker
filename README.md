@@ -2,6 +2,28 @@
 
 ![画像1](https://github.com/Aburaya5123/CalpisMaker/assets/166899082/49d7904c-1e7b-4115-99b9-41dbbb8aa7dd)
 
+
+## チーム名 : BugFix  
+久貝建都:リーダー  
+小泉聡一朗:プログラマ  
+大西響:発表  
+材木飛翔:デザイン/企画  
+松原陸真:デザイン/企画   
+小澤一輝:デザイン/企画   
+上田楓太:デザイン/企画  
+  
+小谷海里:デザイン/企画  
+
+
+# カルピスメーカー
+
+神戸電子専門学校 IT分野 学年末成果発表会 Digital Work2022-2023 1年生作品  
+Digital Works最優秀賞  
+  
+[カルピスメーカー（神戸電子専門学校1年生作品）](https://www.youtube.com/watch?v=JbsXV3P6u7Q)  
+[![](https://img.youtube.com/vi/JbsXV3P6u7Q/0.jpg)](https://www.youtube.com/watch?v=JbsXV3P6u7Q)  
+
+
 ## 使用技術
 
 <p style="display: inline">
@@ -13,16 +35,6 @@
   [![FireZenk/BubbleEmitter](https://img.shields.io/github/stars/FireZenk/BubbleEmitter?style=flat&label=FireZenk/BubbleEmitter)](https://github.com/FireZenk/BubbleEmitter)  
     
 </p> 
-
-## カルピスメーカー
-
-神戸電子専門学校 IT分野 学年末成果発表会 Digital Work2022-2023 1年生作品  
-Digital Works最優秀賞  
-チーム : BugFix
-  
-[カルピスメーカー（神戸電子専門学校1年生作品）](https://www.youtube.com/watch?v=JbsXV3P6u7Q)  
-[![](https://img.youtube.com/vi/JbsXV3P6u7Q/0.jpg)](https://www.youtube.com/watch?v=JbsXV3P6u7Q)  
-  
 
 ## 概要
 
@@ -41,3 +53,27 @@ Yolov8(物体検出AI)のモデルに、空のグラスと液体の入ったグ�
 
 
 <img src="https://github.com/Aburaya5123/CalpisMaker/assets/166899082/d3adaf25-7e61-4cd9-bcf7-20adb7de2148" width=330>
+
+  
+# バーチャル神戸電子 (専門学校2年 チーム開発)
+
+## 使用技術
+
+<p style="display: inline">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=flat&logoColor=white"> <img src="https://img.shields.io/badge/-CSharp-512BD4.svg?logo=csharp&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-GoogleCloud-4285F4.svg?logo=googlecloud&style=flat&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-FFFFFF.svg?logo=unity&style=flat&logoColor=black">
+  
+</p> 
+
+## 概要
+
+オープンキャンパスで神戸電子を訪れる高校生に、IT学科の魅力を伝えるために開発したオンラインゲーム。  
+ゲーム内での交流を主な目的とし、その他ChatGPTやミニゲームコンテンツを通じて、プログラミングに興味を持って欲しいという想いから開発に取り組んだ。  
+
+
+<img src="https://github.com/Aburaya5123/CalpisMaker/assets/166899082/e55fd8a7-66d4-45eb-8f47-49c7be995c65" width=400>
+
+
+https://github.com/Aburaya5123/CalpisMaker/assets/166899082/0aa90281-d293-4c57-9b8a-d62868afbf74
+
